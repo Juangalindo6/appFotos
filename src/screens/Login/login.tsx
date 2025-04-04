@@ -91,7 +91,7 @@ const Login = () => {
             type="submit"
             className="w-full bg-blue-600 text-white font-bold py-3 px-6 rounded-lg hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 transform transition-all duration-200 hover:scale-[1.02]"
           >
-            Iniciar Sesión
+            Iniciar Sesión en Jenny Arroyave mjj
           </button>
         </form>
       </div>
