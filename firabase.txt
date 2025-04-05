@@ -1,0 +1,4 @@
+-----------------
+FIRESTORE
+-----------------
+codigo para (usuarios) en firestore = k62rWYRWLpQ9YN9CRaEn
