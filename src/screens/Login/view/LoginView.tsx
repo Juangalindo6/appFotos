@@ -78,12 +78,12 @@ const LoginView = () => {
       </div>
       <div className="max-w-md w-full bg-white/90 backdrop-blur-sm rounded-xl shadow-lg p-8 transform transition-all duration-300 hover:shadow-xl z-10">
 
-        <h2 className="text-3xl font-bold text-center mb-8 text-gray-800">Iniciar Sesión en Jenny Arroyave 📸</h2>
+        <h2 className="text-3xl font-bold text-center mb-8 text-gray-800">Iniciar Sesión en Jenny Arroyaveee 📸</h2>
         {loginState.error && <p className="text-red-500 text-sm mb-6 bg-red-50 p-3 rounded-lg">{loginState.error}</p>}
         <form onSubmit={handleSubmit} className="space-y-6">
           <div>
             <label className="block text-gray-700 text-sm font-semibold mb-2" htmlFor="email">
-              Email
+              Emaill
             </label>
             <input
               type="email"
