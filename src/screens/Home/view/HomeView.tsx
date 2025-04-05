@@ -87,6 +87,7 @@ const HomeView = () => {
               </div>
               <div>
                 <h1 className="text-2xl font-bold text-gray-800">¡Bienvenido!</h1>
+                <h1>hola</h1>
                 <p className="text-gray-600">{homeState.userEmail}</p>
                 {userProfile?.role && (
                   <p className="text-gray-500 mt-1 flex items-center">
